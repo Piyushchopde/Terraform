@@ -13,3 +13,9 @@ Terraform Variables: 3 Types
 3) Terraform Local Values 
 
 Data Sources: Data Sources allow data to be fetched for use elsewere in terraform configuration 
+
+
+toset
+tomap
+splater 
+for_each 
