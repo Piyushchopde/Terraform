@@ -1,0 +1,15 @@
+TerraForm Theory: 
+
+Argument : 
+Attribute : 
+Terraform state File : This State is used by Terraform to map real world resource to your configuration .tf files keep track of metadata and to improve performance for arge infrastructure 
+meta-arument:
+
+
+
+Terraform Variables: 3 Types
+1) Terraform Input Variables : Serve as paramenter for terraform modules 
+2) Terraform Output Variables 
+3) Terraform Local Values 
+
+Data Sources: Data Sources allow data to be fetched for use elsewere in terraform configuration 
