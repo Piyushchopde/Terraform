@@ -21,3 +21,4 @@ splater : legacy and genralized splat operatoor
 for_each :
    *** if you pass map toin for_each then each.key is not equal to each.value 
        if you pass set of string   in for_each then each.key is not equal to each.value ***
+*** if you use for_each splat operator not working because splat opratore only output list  **
