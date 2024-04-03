@@ -31,4 +31,8 @@ local values:
 
 
 null resoruce : its doest create real resoreses 
-provisioners
+provisioners:
+  file provisioners :
+   remote exec provisioners:
+   local exec provisioners:
+   
