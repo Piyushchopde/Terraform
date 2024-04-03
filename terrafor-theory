@@ -1,6 +1,10 @@
 TerraForm Theory: 
+ required_version :The required_version parameter in a terraform block is used to specify the minimum version of Terraform that is required to run the configuration.
+ 
+ Data_block : data blocks are used to retrieve data from external sources, such as APIs or databases, and make that data available to your
+ Terraform configuration. With data blocks, you can use information from external sources to drive your infrastructure as code, making it more dynamic and flexible.
 
-Argument : 
+ Argument : 
 Attribute : 
 Terraform state File : This State is used by Terraform to map real world resource to your configuration .tf files keep track of metadata and to improve performance for arge infrastructure 
 meta-arument:
@@ -37,4 +41,5 @@ provisioners:
    local exec provisioners:
 
 speculative plan :
-   
+
+https://developer.hashicorp.com/terraform/cli/config/environment-variables
