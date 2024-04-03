@@ -27,3 +27,7 @@ for_each :
 
 module: module are main way to package and reuse resoruce configuration with terraform 
 local values: 
+
+
+
+null resoruce : 
