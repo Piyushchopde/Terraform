@@ -1,8 +1,8 @@
 TerraForm Theory: 
  required_version :The required_version parameter in a terraform block is used to specify the minimum version of Terraform that is required to run the configuration.
  
- Data_block : data blocks are used to retrieve data from external sources, such as APIs or databases, and make that data available to your
- Terraform configuration. With data blocks, you can use information from external sources to drive your infrastructure as code, making it more dynamic and flexible.
+- Data_block : data blocks are used to retrieve data from external sources, such as APIs or databases, and make that data available to your
+ Terraform configuration.
 
  Argument : 
 Attribute : 
