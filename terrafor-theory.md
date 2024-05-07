@@ -30,6 +30,7 @@ speculative plan :
 
 https://developer.hashicorp.com/terraform/cli/config/environment-variables
 
+Dyanamic Block: Is used to reduces your repetitve task i.e Security group  
 
 
 Meta-Arguments in Terraform are as follows:
